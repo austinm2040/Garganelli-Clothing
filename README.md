@@ -1,5 +1,5 @@
-# Project Catwalk
-Project Catwalk is a front-end e-commerce store front for online shoppers
+# Garganelli Clothing 
+Garganelli Clothing is a front-end e-commerce store front for online shoppers
 
 ![Summary](gifs_and_images/overviewMain1.gif)
 
